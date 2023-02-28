@@ -10,7 +10,7 @@ import android.graphics.Color
 import android.widget.Toast
 
 val wordToGuess = FourLetterWordList.getRandomFourLetterWord()
-//val wordToGuess = "TEST"
+//val wordToGuess = "HELLO"
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
